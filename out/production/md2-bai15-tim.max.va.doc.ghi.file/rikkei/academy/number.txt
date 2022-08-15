@@ -1,0 +1,11 @@
+2
+3
+5
+7
+0
+8
+7
+6
+34
+55
+"E:\\RIKKEI ACADEMY\\MD2\\Bai 15\\TH\\Find-Max-Read-And-Write-File\\src\\rikkei\\academy\\number.txt"
